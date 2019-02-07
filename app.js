@@ -2,12 +2,12 @@
 
 
 	const config = {
-    apiKey: "AIzaSyBBZ_SxXJ5l4vWUqx_HOfFIlP4aD81BauY",
-    authDomain: "daenjel.firebaseapp.com",
-    databaseURL: "https://daenjel.firebaseio.com",
-    projectId: "daenjel",
-    storageBucket: "daenjel.appspot.com",
-    messagingSenderId: "477459671681"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
 
 	};
 
